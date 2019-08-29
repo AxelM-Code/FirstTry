@@ -1,0 +1,2 @@
+# FristTry
+Learn about github
